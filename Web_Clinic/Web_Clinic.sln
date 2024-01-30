@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Clinic.Server", "Web_Clinic.Server\Web_Clinic.Server.csproj", "{E0F0A450-B80C-48D8-BEC7-BFF73A6FCB42}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "web_clinic.client", "web_clinic.client\web_clinic.client.esproj", "{B0DAA2B6-9092-4C64-ABFC-BBABF09D4C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F0A450-B80C-48D8-BEC7-BFF73A6FCB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F0A450-B80C-48D8-BEC7-BFF73A6FCB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F0A450-B80C-48D8-BEC7-BFF73A6FCB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F0A450-B80C-48D8-BEC7-BFF73A6FCB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DAA2B6-9092-4C64-ABFC-BBABF09D4C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DAA2B6-9092-4C64-ABFC-BBABF09D4C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DAA2B6-9092-4C64-ABFC-BBABF09D4C44}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B0DAA2B6-9092-4C64-ABFC-BBABF09D4C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DAA2B6-9092-4C64-ABFC-BBABF09D4C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DAA2B6-9092-4C64-ABFC-BBABF09D4C44}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD0BE49E-377C-46A3-B505-21F307FCAF6C}
+	EndGlobalSection
+EndGlobal

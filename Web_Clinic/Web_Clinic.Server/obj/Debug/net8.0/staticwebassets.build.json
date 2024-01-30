@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "bhey7iF9bKbTC9Z4SrCzqAVWAzL3kqp7Xj4j1LPlgCA=",
+  "Source": "Web_Clinic.Server",
+  "BasePath": "_content/Web_Clinic.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\web_clinic\\Web_Clinic\\web_clinic.client\\web_clinic.client.esproj",
+      "Version": 2,
+      "Source": "web_clinic.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

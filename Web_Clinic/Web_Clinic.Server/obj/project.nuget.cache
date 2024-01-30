@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8ZxHhc/DriG2dUpsGwtEAt4FEI/akvdkqrtaCF4vbKwi6UABmKlR+SlQqnXJR8cMRk4wMaqia5cZ44VFS3lHw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\web_clinic\\Web_Clinic\\Web_Clinic.Server\\Web_Clinic.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fancu\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.1\\microsoft.aspnetcore.spaproxy.8.0.1.nupkg.sha512",
+    "C:\\Users\\Fancu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Fancu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Fancu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Fancu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Fancu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Fancu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
